@@ -1,16 +1,15 @@
-# Cleaned datasets for Assignment 2 (23L-XXXX)
+# Cleaned datasets for Assignment 2 (23L-0562)
 
-Version: **v1.0**  |  Date: **[date you publish]**
-Course: [course name], FAST School of Computing, FAST-NU Lahore
+Version: **v1.0**  |  Date: **18-10-26**
+Course: Data Science, FAST School of Computing, FAST-NU Lahore
 
 These are the cleaned versions of two datasets used in Assignment 2 (EDA).
 Assignment 3 loads them from this repository at tag v1.0.
 
-## 1. Netflix (23L_XXXX_A2_netflix_cleaned.csv)
+## 1. Netflix (23L_0562_A2_netflix_cleaned.csv)
 
 **Original source:** https://www.kaggle.com/datasets/shivamb/netflix-shows
-(by Shivam Bansal). Licence: [copy the licence shown on the Kaggle page].
-Credit belongs to the original author.
+(by Shivam Bansal).
 
 **Shape:** 8,807 rows x 22 columns (12 original + 10 derived).
 **One row =** one title (Movie or TV Show) in the Netflix catalogue.
@@ -29,7 +28,7 @@ Credit belongs to the original author.
 primary_country, movie_minutes, n_seasons, lag_years (year_added - release_year),
 rating_group (Kids / Older kids / Teens / Adults / Unrated/Unknown).
 
-## 2. Supermarket Sales (23L_XXXX_A2_supermarket_cleaned.csv)
+## 2. Supermarket Sales (23L_0562_A2_supermarket_cleaned.csv)
 
 **Original source:** instructor-provided file `supermarket_Sales.csv`
 (FAST-NU Lahore course material).
